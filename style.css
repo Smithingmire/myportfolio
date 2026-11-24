@@ -627,7 +627,7 @@ footer {
         padding: 80px 5%;
     }
     .project-card {
-        padding: 2rem;
+        padding: 0.8rem;
     }
     .profile {
         width: 200px;
@@ -638,6 +638,10 @@ footer {
     }
     .skills-grid {
         grid-template-columns: 1fr;
+    }
+    .social-links-footer{
+        display: flex;
+        flex-wrap: wrap;
     }
 }
 
